@@ -67,4 +67,4 @@ schedule.every().day.at('09:00').do(surrounding_alert)
 while True:
     schedule.run_pending()
     time.sleep(1)
-#if you get problem with sending telebot please you should create chat with bot
+#if you get problem with sending telebot please you should create chat with bot/

@@ -3,5 +3,3 @@
  
  in line 15 specify your tg.ID,
  in line 12 specify tg bot token
- aasd
- 
